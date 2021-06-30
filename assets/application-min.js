@@ -1,0 +1,1 @@
+$(document).ready((function(){$(document).on("change","#variant-id",(function(){let n=this.value;console.log(n)}))}));
